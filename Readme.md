@@ -15,7 +15,7 @@ python main_baseline.py \
 #        *Optimal test accuracy: 0.93
 #**************************************************
 ~~~
-### visualize
+### Visualization
 there may be some bug
 - show network:
 ~~~bash
